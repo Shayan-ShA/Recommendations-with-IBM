@@ -1,5 +1,3 @@
-<h1> Recommendations-with-IBM
-Udacity Data Scientist Nanodegree Program </h1>
 <h2> Overview </h2>
 In this project, I built out a number of different methods for making recommendations that can be used for different situations using real data from the IBM Watson Studio platform.
 <h4>The methods used are as follow </h4>
